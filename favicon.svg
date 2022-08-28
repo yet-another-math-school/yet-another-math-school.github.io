@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="46.409876"
-     inkscape:cx="5.6884444"
-     inkscape:cy="7.5738189"
+     inkscape:cx="6.5072357"
+     inkscape:cy="6.2809907"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -47,17 +47,16 @@
        id="text1516"><tspan
          sodipodi:role="line"
          id="tspan1514"
-         style="stroke-width:0.65"></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.18506px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#000000;stroke:#000000;stroke-width:0.670426"
-       x="-0.18417355"
-       y="4.065423"
-       id="text1520"><tspan
-         sodipodi:role="line"
-         id="tspan1518"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.18506px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.670428;stroke-opacity:1"
-         x="-0.18417355"
-         y="4.065423">Ш</tspan></text>
+         style="stroke-width:0.65" /></text>
+    <g
+       aria-label="Ш"
+       transform="scale(0.98475656,1.0154794)"
+       id="text1520"
+       style="font-size:4.69677px;-inkscape-font-specification:sans-serif;stroke:#000000;stroke-width:0.60729">
+      <path
+         d="M 4.1214231,3.7845016 H 0.19980349 V 0.36971112 H 0.65388576 V 3.3900462 H 1.9335722 V 0.36971112 H 2.3876544 V 3.3900462 H 3.6673409 V 0.36971112 h 0.4540822 z"
+         style="fill:#ff0000;stroke:none;stroke-width:0.607292"
+         id="path1673" />
+    </g>
   </g>
 </svg>
